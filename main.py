@@ -1,20 +1,16 @@
-# This is a sample Python script.
+a = ['banana', 'apple','khaki']
+for element in a:
+    print(element)
+    print(element)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+b = [30, 80, 89]
+total = 10
+for e in b:
+    total = total + e
+print(total)
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-# test
-
+total2 = 0
+c = list(range(1, 5))
+for i in c:
+    total2 = tot
 
